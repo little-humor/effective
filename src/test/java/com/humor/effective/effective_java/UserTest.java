@@ -1,6 +1,6 @@
-package com.humor.effective.chapter_one;
+package com.humor.effective.effective_java;
 
-import com.humor.effective.chapter_one.model.User;
+import com.humor.effective.effective_java.model.User;
 import lombok.extern.slf4j.Slf4j;
 
 import java.time.LocalDateTime;

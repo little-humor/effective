@@ -1,13 +1,11 @@
-package com.humor.effective.chapter_one.model;
+package com.humor.effective.effective_java.model;
 
 import lombok.Builder;
 import lombok.Data;
-import lombok.val;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 @Data
 @Builder
